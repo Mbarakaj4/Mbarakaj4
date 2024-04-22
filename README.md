@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there, i'm David 👋<br><br>- 🔭 I’m currently working on projects<br>- 🌱 I’m currently learning REST Api's with Django and DevOps<br>- 👯 I’m looking to collaborate on something fun<br>- 💬 Ask me about Coffee and Python<br>- 📫 How to reach me: [Email](mailto:jdavidbenitezrios@gmail.com)<br>- ⚡ Fun fact: Cats have over 30 muscles that control their ears and can rotate them 180 degrees.<br>
+### Hi there, i'm David 👋<br><br>- 🔭 I’m currently working on gain developer experience<br>- 🌱 I’m currently learning REST Api's with Django and DevOps<br>- 👯 I’m looking to collaborate on something fun<br>- 💬 Ask me about anything, i enjoy having conversations<br>- 📫 How to reach me: [Email](mailto:jdavidbenitezrios@gmail.com)<br>- ⚡ Fun fact: Cats have over 30 muscles that control their ears and can rotate them 180 degrees.<br>
 
 
 # 💻 Tech Stack:
